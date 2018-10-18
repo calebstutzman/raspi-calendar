@@ -12,5 +12,8 @@ apt-get install i3 chromium-browser xorg git -y
 # clones the proper configs
 git clone https://github.com/calebstutzman/raspi-config
 cp raspi-calendar/autoi3.sh autoi3.sh
-cp raspi-calendar/i3config .config/i3/config
+cp raspi-calendar/profile .bash_profile 
+cp raspi-calendar/xinitrc .xinitrc
+startx 
+
 
