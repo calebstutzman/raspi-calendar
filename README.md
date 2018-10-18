@@ -8,4 +8,4 @@ raspi-calendar
 4. Run `git clone https://github.com/calebstutzman/raspi-calendar` and `cp raspi-calendar/autoi3.sh autoi3.sh; sudo chmod a+x autoi3.sh`
 5. Run `cp raspi-calender/i3config .config/i3/config'
 6. Run `sudo nano /etc/profile` and add `. /home/pi/autoi3.sh` at the bottom
-7. 
+7. `reboot` 
