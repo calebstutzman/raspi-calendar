@@ -183,4 +183,5 @@ bar {
 }
 
 # Autostart Progs
-exec_always --no-startup-id chromium-browser --start-maximized --kiosk calendar.google.com
+
+exec_always --no-startup-id chromium-browser --start-maximized --kiosk calendar.google.com/calendar/r
