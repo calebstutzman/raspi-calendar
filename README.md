@@ -1,7 +1,7 @@
 raspi-calendar
 
 # Steps
-
+ test commit win10
 1. Install [Raspbian Stretch Lite](https://www.raspberrypi.org/downloads/raspbian/) on your Raspberry Pi.
 2. Run `sudo apt-get install git i3 chromium-browser xorg`
 3. Run `git clone https://github.com/calebstutzman/raspi-calendar` 
